@@ -1,0 +1,41 @@
+/* mystyle */
+body{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: floralwhite;
+    font-weight: normal;
+    }
+
+    .common{
+        background-color: floralwhite;
+        border: 2px solid white;
+        position: absolute;
+    }
+    .header{
+        top: .1px;
+        left: .1px;
+        right: .1px;
+        height: .1px;
+
+    }
+
+    .mainbody{
+        top: 114px;
+        left: 114px;
+        right: 114px;
+        bottom: 39px;
+
+    }
+
+    .footer{
+        bottom: 5px;
+        left: 5px;
+        right: 5px;
+        height: 5px;
+    
+    }
+    /* <div class="common header"></div>
+    <div class="common main body"></div>
+    <div class="common footer"></div> */
+
